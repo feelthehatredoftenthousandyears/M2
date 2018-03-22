@@ -1,0 +1,46 @@
+
+  *{
+    margin:0;
+ 	  padding:0;
+  }
+  body{
+	  background-color:rgb(104,205,213);
+	  font-size:625%;
+  }
+  img{
+    display:block;
+  }
+  .backicon{
+  	margin:15px 32px;
+  }
+  .title{
+    margin:65px auto;
+    width:1.91em;
+    height:0.79em;
+  }
+  p{
+    font-size:2rem;
+    color:white;
+    word-wrap:break-word;
+  }
+  .text{
+    margin:110px auto;
+    width:70%;
+  }
+  .picture1,.picture2{
+    font-size:0;
+    margin-top:8rem;
+    text-align:center;
+   }
+  .picture1{
+    margin-left:21%;
+    float:left;
+  }
+  .picture2{
+    margin-right:21%;
+    float:right;
+  }
+  span{
+    color:white;
+    font-size:1.3rem;
+  }
